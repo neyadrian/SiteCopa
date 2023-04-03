@@ -1,0 +1,121 @@
+body{ 
+    background-color: rgb(116, 14, 34);
+    background-image: linear-gradient( to right, rgb(220, 20, 60), transparent, rgb(66, 8, 19) ); 
+}
+
+.copa2022 {
+	box-shadow: 3px 3px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:2px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ff1100;
+}
+.copa2022:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.copa2022:active {
+	position:relative;
+	top:1px;
+}
+
+.histbrasil {
+	box-shadow: 3px 3px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:2px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ff1100;
+}
+.histbrasil:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.histbrasil:active {
+	position:relative;
+	top:1px;
+}
+
+.grupos {
+	box-shadow: 3px 3px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:2px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ff1100;
+}
+.grupos:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.grupos:active {
+	position:relative;
+	top:1px;
+}
+
+.saber {
+	box-shadow: 3px 3px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:2px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ff1100;
+}
+.saber:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.saber:active {
+	position:relative;
+	top:1px;
+}
+
+h1{
+	text-align: center;
+	font-family: arial;
+	font-style: italic;
+	color: azure;
+}
+
+h3{
+	text-align: justify;
+	font-family: arial;
+	color: azure;
+}
